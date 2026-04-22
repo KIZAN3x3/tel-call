@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tel-call/static/css/main.5e51b346.css",
+    "main.css": "/tel-call/static/css/main.bf89cb2d.css",
     "main.js": "/tel-call/static/js/main.f375c74c.js",
     "index.html": "/tel-call/index.html",
-    "main.5e51b346.css.map": "/tel-call/static/css/main.5e51b346.css.map",
+    "main.bf89cb2d.css.map": "/tel-call/static/css/main.bf89cb2d.css.map",
     "main.f375c74c.js.map": "/tel-call/static/js/main.f375c74c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e51b346.css",
+    "static/css/main.bf89cb2d.css",
     "static/js/main.f375c74c.js"
   ]
 }
