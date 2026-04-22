@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tel-call/static/css/main.5e51b346.css",
+    "main.js": "/tel-call/static/js/main.f375c74c.js",
+    "index.html": "/tel-call/index.html",
+    "main.5e51b346.css.map": "/tel-call/static/css/main.5e51b346.css.map",
+    "main.f375c74c.js.map": "/tel-call/static/js/main.f375c74c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e51b346.css",
+    "static/js/main.f375c74c.js"
+  ]
+}
